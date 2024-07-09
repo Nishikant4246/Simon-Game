@@ -24,13 +24,13 @@ This is a fun and challenging memory game where you follow a sequence of colored
 
 ## Active Link Section:
 
-🌐 **Live Demo:** ()
+🌐 **Live Demo:** [Simon-Game](https://nishikant4246.github.io/Simon-Game/index.html)
 
 ## Follow Me on 😉 
 
 🚀 **Let's Connect! Follow me for more exciting projects and updates :**
-- **GitHub:**  [Follow on GitHub]()
-- **LinkedIn:** [Connect on LinkedIn]()
+- **GitHub:**  [Follow on GitHub](https://github.com/Nishikant4246)
+- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/nishikant-v-kshirsagar-483a2b259/)
   
 
 - $ Thank You Stay Updated...
