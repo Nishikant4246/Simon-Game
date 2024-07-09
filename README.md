@@ -34,4 +34,6 @@ This is a fun and challenging memory game where you follow a sequence of colored
   
 
 - $ Thank You Stay Updated...
+
+- Status: Working 
  
