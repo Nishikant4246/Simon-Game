@@ -24,7 +24,7 @@ This is a fun and challenging memory game where you follow a sequence of colored
 
 ## Active Link Section:
 
-🌐 **Live Demo:** [Simon-Game](https://nishikant4246.github.io/Simon-Game/)
+# 🌐 **Live Demo:** [Simon-Game](https://nishikant4246.github.io/Simon-Game/)
 
 ## Follow Me on 😉 
 
