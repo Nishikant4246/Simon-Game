@@ -19,6 +19,9 @@ This is a fun and challenging memory game where you follow a sequence of colored
      
     Condition: Game Over: If you click the wrong button at any point, the game ends and your score (the highest level reached) is displayed.
 
+  ## Enjoy and Have Fun!
+    This is a simple yet engaging game that can be enjoyed by people of all ages. Test your memory and see how far you can go!
+
 ## Active Link Section:
 
 🌐 **Live Demo:** ()
@@ -28,6 +31,7 @@ This is a fun and challenging memory game where you follow a sequence of colored
 🚀 **Let's Connect! Follow me for more exciting projects and updates :**
 - **GitHub:**  [Follow on GitHub]()
 - **LinkedIn:** [Connect on LinkedIn]()
+  
 
 - $ Thank You Stay Updated...
  
